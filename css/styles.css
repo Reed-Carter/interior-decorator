@@ -1,13 +1,107 @@
+h1 {
+  text-align: center;
+}
 
-.column {
+h2 {
+  text-align: center;
+  under
+
+}
+
+p {
+  text-align: justify;
+
+}
+
+.column1 {
   width: 300px;
   float: left;
+  background-color:rgb(172, 22, 22);
+  border: solid black;
+  border-width: 5px;
+  margin: 12px;
+  box-sizing: border-box;
+  padding: 10px;
+  height: 600px;
+  border-radius: 15px;
+  
+
+}
+
+.column2 {
+  width: 300px;
+  float: left;
+  background-color:rgb(213, 236, 63);
+  border: solid black;
+  border-width: 5px;
+  margin: 12px;
+  box-sizing: border-box;
+  padding: 10px;
+  height: 600px;
+  border-radius: 15px;
+
+}
+
+
+.column3 {
+  width: 300px;
+  float: left;
+  background-color:rgb(6, 168, 92);
+  border: solid black;
+  border-width: 5px;
+  margin: 12px;
+  box-sizing: border-box;
+  padding: 10px;
+  height: 600px;
+  align-items: bottom;
+  border-radius: 15px;
   
 }
+.text {
+  width: 250px;
+  float: left;
+  background-color:white;
+  border: solid black;
+  border-width: 5px;
+  margin: 12px;
+  box-sizing: border-box;
+  padding: 10px;
+  height: 250px;
+  align-items: bottom;
+  font-size: 12px;
+  border-radius: 15px;
+
+}
+
+
+.picture {
+    margin: 40px;
+    position: relative;
+    bottom: 30px;
+    width: 200px;
+    height: 175px;
+    line-height: 175px;
+    text-align: center;
+    vertical-align: bottom;
+}
+
 
 img {
   max-width: 80%;
   height: auto;
   border-radius: 50%;
   margin-left: auto;
+  border: solid black;
+  border-width: 5px;
+  margin: 12px;
+  box-sizing: border-box;
+  vertical-align: bottom;
+
+  
+
+
+ 
+  
+  
+  
 }
