@@ -1,4 +1,4 @@
-# _My First Webpage_
+# __Interior Decorator
 
 #### By _Reed, Luke, Drew, and DJ_
 
@@ -6,8 +6,8 @@
 
 ## Technologies Used
 
-* _HTML_
-* _CSS_
+* HTML
+* CSS
 
 ## Description
 
@@ -15,14 +15,14 @@ _This is a webpage used for practice to develope webpages in order to practice H
 
 ## Setup/Installation Requirements
 
-* _clone this repository to your desktop
-* _Navigate to the top level of the directory
-* _Open my_first_webpage.html in your browser 
+* clone this repository to your desktop
+* Navigate to the top level of the directory
+* Open my_first_webpage.html in your browser 
 
 ## Known Bugs
 
-* _no known bugs _
+* no known bugs
 
 ## License
 
-Copyright (c) _2022_ _Reed Carter, Luke Callahan, DJ, and Drew White(s)_
+Copyright (c) _2022_ _Reed Carter, Luke Callahan, DJ, and Drew White(s)
